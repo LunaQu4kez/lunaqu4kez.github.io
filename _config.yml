@@ -23,12 +23,12 @@ repository               : "lunaqu4kez/lunaqu4kez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zhaozhao.png"
   name             : "Zhao ZHAO"
   pronouns         : # example: "she/her"  
-  bio              : "An ordinary student at SUSTech"
+  bio              : "An ordinary student"
   location         : "Shenzhen, Guangdong, China"
-  employer         : "Southern University of Science and Technology"
+  employer         : "SUSTech"
   uri              : # URL
   email            : "12541018@mail.sustech.edu.cn" 
 
@@ -78,7 +78,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  qq               : 2397429787
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
